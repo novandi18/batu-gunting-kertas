@@ -14,7 +14,7 @@ Dibuat dengan menggunakan Kotlin yang ditujukan untuk perangkat mobile.
  1. Android Studio Bumblebee 2021.1.1 Patch 2
  2. Kotlin 1.6.10
 
-## Fitur
+## Fitur Game
  1. Offline (Lawan dengan bot)
  2. Online (Coming Soon!)
 
