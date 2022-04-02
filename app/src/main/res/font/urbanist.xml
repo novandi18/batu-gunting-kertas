@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  FONT STYLE NORMAL  -->
+
+    <!--  Thin  -->
+    <font
+        android:font="@font/urbanist_thin"
+        android:fontWeight="100"
+        android:fontStyle="normal"/>
+
+    <!--  ExtraLight  -->
+    <font
+        android:font="@font/urbanist_extra_light"
+        android:fontWeight="200"
+        android:fontStyle="normal"/>
+
+    <!--  Light  -->
+    <font
+        android:font="@font/urbanist_light"
+        android:fontWeight="300"
+        android:fontStyle="normal"/>
+
+    <!--  Regular  -->
+    <font
+        android:font="@font/urbanist_regular"
+        android:fontWeight="400"
+        android:fontStyle="normal"/>
+
+    <!--  Medium  -->
+    <font
+        android:font="@font/urbanist_medium"
+        android:fontWeight="500"
+        android:fontStyle="normal"/>
+
+    <!--  SemiBold  -->
+    <font
+        android:font="@font/urbanist_semi_bold"
+        android:fontWeight="600"
+        android:fontStyle="normal"/>
+
+    <!--  Bold  -->
+    <font
+        android:font="@font/urbanist_bold"
+        android:fontWeight="700"
+        android:fontStyle="normal"/>
+
+    <!--  ExtraBold  -->
+    <font
+        android:font="@font/urbanist_extra_bold"
+        android:fontWeight="800"
+        android:fontStyle="normal"/>
+
+    <!--  Black  -->
+    <font
+        android:font="@font/urbanist_black"
+        android:fontWeight="900"
+        android:fontStyle="normal"/>
+
+
+    <!--  FONT STYLE ITALIC  -->
+
+    <!--  Thin  -->
+    <font
+        android:font="@font/urbanist_thin_italic"
+        android:fontWeight="100"
+        android:fontStyle="italic"/>
+
+    <!--  ExtraLight  -->
+    <font
+        android:font="@font/urbanist_extra_light_italic"
+        android:fontWeight="200"
+        android:fontStyle="italic"/>
+
+    <!--  Light  -->
+    <font
+        android:font="@font/urbanist_light_italic"
+        android:fontWeight="300"
+        android:fontStyle="italic"/>
+
+    <!--  Regular  -->
+    <font
+        android:font="@font/urbanist_regular"
+        android:fontWeight="400"
+        android:fontStyle="italic"/>
+
+    <!--  Medium  -->
+    <font
+        android:font="@font/urbanist_medium_italic"
+        android:fontWeight="500"
+        android:fontStyle="italic"/>
+
+    <!--  SemiBold  -->
+    <font
+        android:font="@font/urbanist_semi_bold_italic"
+        android:fontWeight="600"
+        android:fontStyle="italic"/>
+
+    <!--  Bold  -->
+    <font
+        android:font="@font/urbanist_bold_italic"
+        android:fontWeight="700"
+        android:fontStyle="italic"/>
+
+    <!--  ExtraBold  -->
+    <font
+        android:font="@font/urbanist_extra_bold_italic"
+        android:fontWeight="800"
+        android:fontStyle="italic"/>
+
+    <!--  Black  -->
+    <font
+        android:font="@font/urbanist_black_italic"
+        android:fontWeight="900"
+        android:fontStyle="italic"/>
+</font-family>

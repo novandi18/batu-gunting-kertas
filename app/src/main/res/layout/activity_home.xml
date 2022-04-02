@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_mode"
+        android:fontFamily="@font/darker_grotesque_extra_bold"
+        android:textSize="50sp"
+        android:layout_marginBottom="20dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_offline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_offline"
+            android:fontFamily="@font/urbanist_semi_bold"
+            app:icon="@drawable/ic_baseline_wifi_off_24"
+            android:paddingVertical="20dp"
+            android:paddingHorizontal="60dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="15sp"
+            android:backgroundTint="@color/mode_offline"/>
+
+        <Button
+            android:id="@+id/btn_online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_online"
+            android:fontFamily="@font/urbanist_semi_bold"
+            app:icon="@drawable/ic_baseline_wifi_24"
+            android:paddingVertical="20dp"
+            android:paddingHorizontal="60dp"
+            android:textSize="15sp"
+            android:backgroundTint="@color/mode_online"
+            android:enabled="false"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/coming_soon"
+            android:textColor="@color/gray"
+            android:fontFamily="@font/grotesque"
+            android:textFontWeight="600"/>
+
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Batu Gunting Kertas</string>
+    <string name="text_btn_start">Mulai Sekarang!</string>
+    <string name="text_mode">Pilih Mode</string>
+    <string name="text_offline">Offline</string>
+    <string name="text_online">Online</string>
+    <string name="coming_soon">Coming soon!</string>
+    <string name="bot_desc">Kalahkan bot dengan melewati 10 ronde!</string>
+    <string name="batu">Batu</string>
+    <string name="gunting">Gunting</string>
+    <string name="kertas">Kertas</string>
+    <string name="point_musuh">Point Musuh</string>
+    <string name="point_kamu">Point Kamu</string>
+    <string name="bot_image">Bot Image</string>
+    <string name="ronde">RONDE</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="keluar">Keluar</string>
+</resources>

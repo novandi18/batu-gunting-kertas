@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_start">#2a4dbf</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mode_offline">#f50057</color>
+    <color name="mode_online">#4caf50</color>
+    <color name="gray">#8F8F8F</color>
+    <color name="orange">#ffc34d</color>
+    <color name="blue_light">#5ca0ed</color>
+    <color name="red_light">#ff809d</color>
+    <color name="extra_gray">#595959</color>
+</resources>

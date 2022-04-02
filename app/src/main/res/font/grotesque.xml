@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  Light  -->
+    <font
+        android:font="@font/darker_grotesque_light"
+        android:fontStyle="normal"
+        android:fontWeight="300"/>
+
+    <!--  Regular  -->
+    <font
+        android:font="@font/darker_grotesque"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+    <!--  Medium  -->
+    <font
+        android:font="@font/darker_grotesque_medium"
+        android:fontStyle="normal"
+        android:fontWeight="500"/>
+
+    <!--  SemiBold  -->
+    <font
+        android:font="@font/darker_grotesque_semi_bold"
+        android:fontStyle="normal"
+        android:fontWeight="600"/>
+
+    <!--  Bold  -->
+    <font
+        android:font="@font/darker_grotesque_bold"
+        android:fontStyle="normal"
+        android:fontWeight="700"/>
+
+    <!--  ExtraBold  -->
+    <font
+        android:font="@font/darker_grotesque_extra_bold"
+        android:fontStyle="normal"
+        android:fontWeight="800"/>
+
+    <!--  Black  -->
+    <font
+        android:font="@font/darker_grotesque_black"
+        android:fontStyle="normal"
+        android:fontWeight="900"
+        />
+</font-family>
