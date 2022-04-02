@@ -14,6 +14,10 @@ Dibuat dengan menggunakan Kotlin yang ditujukan untuk perangkat mobile.
  1. Android Studio Bumblebee 2021.1.1 Patch 2
  2. Kotlin 1.6.10
 
+## Fitur
+ 1. Offline (Lawan dengan bot)
+ 2. Online (Coming Soon!)
+
 ## Link Download
 Jika ingin mendownload game ini, silahkan klik [link berikut](https://drive.google.com/file/d/15WEqmD7OQdwSoSB-ZS25iwNDb0IG7qMc/view?usp=sharing)
 
