@@ -24,4 +24,7 @@ Dibuat dengan menggunakan Kotlin yang ditujukan untuk perangkat mobile.
 ## Link Download
 Jika ingin mendownload game ini, silahkan klik [link berikut](https://drive.google.com/file/d/15WEqmD7OQdwSoSB-ZS25iwNDb0IG7qMc/view?usp=sharing)
 
-This game is made by Novandi Ramadhan with :heart:
+---
+
+![love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/novandiramadhan)
