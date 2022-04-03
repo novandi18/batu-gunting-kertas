@@ -18,6 +18,9 @@ Dibuat dengan menggunakan Kotlin yang ditujukan untuk perangkat mobile.
  1. Offline (Lawan dengan bot)
  2. Online (Coming Soon!)
 
+## Demo
+ - [https://youtu.be/0izo_2jMbZ8](https://youtu.be/0izo_2jMbZ8)
+
 ## Link Download
 Jika ingin mendownload game ini, silahkan klik [link berikut](https://drive.google.com/file/d/15WEqmD7OQdwSoSB-ZS25iwNDb0IG7qMc/view?usp=sharing)
 
