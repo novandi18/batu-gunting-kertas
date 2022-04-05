@@ -1,4 +1,4 @@
-# Batu Gunting Kertas v1.0.0
+# Batu Gunting Kertas v1.0.
 <img src="https://github.com/novandi18/batu-gunting-kertas/blob/main/app/src/main/res/drawable/rock_paper_scissors.png" alt="Logo Aplikasi" width="100"/>
 Sebuah game yang terinspirasi dari permainan tangan yaitu Batu Gunting Kertas.
 
